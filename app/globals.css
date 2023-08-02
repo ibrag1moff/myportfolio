@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply m-0 p-0 box-border text-white;
+}
+
+.headerContainer {
+    @apply max-w-[1300px] py-8 px-2 mx-auto sm:px-8 md:px-12 lg:px-[220px];
+}
+
+.container {
+    @apply max-w-[1900px] mx-auto px-2 sm:px-8 md:px-12 lg:px-[150px];
+}
+
+.title::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+    width: 100px;
+    height: 3px;
+    background-color: #fff700;
+}
