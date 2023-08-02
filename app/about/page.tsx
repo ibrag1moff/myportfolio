@@ -53,14 +53,15 @@ export default function About() {
                             <SkillCard title="bootstrap" />
                         </div>
                         <p className="text-center md:max-w-[400px] md:mx-auto">
-                            Welcome! I'm Abbas Ibragimov, experienced Software
-                            engineer from Baku, Azerbaijan.Are you looking for a
-                            professional Developer to help you build a website
-                            on time and on budget? I provide quality FrontEnd &
-                            BackEnd development services for small businesses as
-                            well as for big companies.I have plenty of
-                            experience, working with HTML,CSS,JavaScript,React,
-                            Next js and etc.. Make sure to contact me!
+                            Welcome! I&apos;m Abbas Ibragimov, experienced
+                            Software engineer from Baku, Azerbaijan.Are you
+                            looking for a professional Developer to help you
+                            build a website on time and on budget? I provide
+                            quality FrontEnd & BackEnd development services for
+                            small businesses as well as for big companies.I have
+                            plenty of experience, working with
+                            HTML,CSS,JavaScript,React, Next js and etc.. Make
+                            sure to contact me!
                         </p>
                     </div>
                 </div>
