@@ -29,6 +29,17 @@ export default function Works() {
 
             <div className="flex flex-col items-center justify-center gap-8 pt-12 pb-20 md:flex-row md:flex-wrap">
                 <WorkCard
+                    img="/portfolio7.png"
+                    projectType="Personal Project"
+                    projectName="Youtube Clone"
+                    icon1={<FaReact size={23} />}
+                    icon2={<TbBrandNextjs size={23} />}
+                    icon3={<BiLogoTailwindCss size={23} />}
+                    icon4={<TbApi size={23} />}
+                    liveLink="https://youtube-clone-swart-zeta.vercel.app/"
+                    codeLink="https://github.com/ibrag1moff/youtube-clone"
+                />
+                <WorkCard
                     img="/portfolio1.png"
                     projectType="Ecommerce"
                     projectName="FATIMA"
