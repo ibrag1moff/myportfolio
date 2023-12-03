@@ -63,6 +63,17 @@ export default function Works() {
                     codeLink="https://github.com/ibrag1moff/movie-app"
                 />
                 <WorkCard
+                    img="/portfolio9.png"
+                    projectType="Personal Project"
+                    projectName="Todo App"
+                    icon1={<FaReact size={23} />}
+                    icon2={<TbBrandNextjs size={23} />}
+                    icon3={<SiTypescript size={23} />}
+                    icon4={<BiLogoTailwindCss size={23} />}
+                    liveLink="https://todo-app-kappa-olive.vercel.app/"
+                    codeLink="https://github.com/ibrag1moff/todo-app"
+                />
+                <WorkCard
                     img="/portfolio8.png"
                     projectType="Personal Project"
                     projectName="AutoWheels"

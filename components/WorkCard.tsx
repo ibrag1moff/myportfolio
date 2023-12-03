@@ -37,7 +37,7 @@ export default function WorkCard({
             className="flex flex-col  max-w-[350px]"
         >
             <div className="cursor-pointer relative group transition-all duration-300">
-                <img src={img} alt="ProjectImg" />
+                <img className="h-[178px]" src={img} alt="ProjectImg" />
                 <div className="hidden xl:group-hover:flex absolute top-0 left-0 bottom-0 right-0 z-30 bg-black/90">
                     <a
                         className="absolute left-1/2 top-1/2 translate-x-[-50%] translate-y-[-50%] font-bold hover:underline text-[#fff700] text-xl"
