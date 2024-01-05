@@ -34,8 +34,8 @@ export default function Works() {
                     projectName="Grill Galaxy"
                     icon1={<FaReact size={23} />}
                     icon2={<TbBrandNextjs size={23} />}
-                    icon2={<SiTypescript size={23} />}
-                    icon3={<BiLogoTailwindCss size={23} />}
+                    icon3={<SiTypescript size={23} />}
+                    icon4={<BiLogoTailwindCss size={23} />}
                     liveLink="https://grill-galaxy.vercel.app/"
                     codeLink="https://github.com/ibrag1moff/grillGalaxy"
                 />
