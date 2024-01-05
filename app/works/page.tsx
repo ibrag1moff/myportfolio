@@ -29,7 +29,7 @@ export default function Works() {
 
             <div className="flex flex-col items-center justify-center gap-8 pt-12 pb-20 md:flex-row md:flex-wrap">
                 <WorkCard
-                    img="/portfolio7.png"
+                    img="/portfolio10.png"
                     projectType="Personal Project"
                     projectName="Grill Galaxy"
                     icon1={<FaReact size={23} />}
