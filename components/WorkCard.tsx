@@ -100,7 +100,7 @@ export default function WorkCard({
                         href={liveLink}
                         target="__blank"
                     >
-                        <div className="absolute bottom-[-50px] right-[-20px] z-30 hidden xl:group-hover:flex">
+                        <div className="absolute bottom-[-50px] right-[-20px] z-40 hidden xl:group-hover:flex">
                             <div className="bg-black dark:bg-white relative flex rounded-xl items-center p-2">
                                 <div className="text-md text-white dark:text-black">
                                     Live
@@ -114,7 +114,7 @@ export default function WorkCard({
                         href={codeLink}
                         target="__blank"
                     >
-                        <div className="absolute bottom-[-50px] right-[-20px] z-30 hidden xl:group-hover:flex">
+                        <div className="absolute bottom-[-50px] right-[-20px] z-40 hidden xl:group-hover:flex">
                             <div className="bg-black dark:bg-white relative flex rounded-xl items-center p-2">
                                 <div className="text-md text-white dark:text-black">
                                     Code

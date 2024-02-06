@@ -40,6 +40,18 @@ export default function Works() {
                     codeLink="https://github.com/ibrag1moff/grillGalaxy"
                 />
                 <WorkCard
+                    img="/portfolio5.png"
+                    projectType="Personal Project"
+                    projectName="Movie Land"
+                    icon1={<FaReact size={23} />}
+                    icon2={<TbBrandNextjs size={23} />}
+                    icon3={<SiTypescript size={23} />}
+                    icon4={<BiLogoTailwindCss size={23} />}
+                    icon5={<SiThemoviedatabase size={23} />}
+                    liveLink="https://movieland-gray.vercel.app/"
+                    codeLink="https://github.com/ibrag1moff/movieland"
+                />
+                <WorkCard
                     img="/portfolio7.png"
                     projectType="Personal Project"
                     projectName="Youtube Clone"
@@ -60,18 +72,6 @@ export default function Works() {
                     icon4={<BiLogoTailwindCss size={23} />}
                     liveLink="https://fatima-ecommerce-ruby.vercel.app/"
                     codeLink="https://github.com/ibrag1moff/ecommerce-next"
-                />
-                <WorkCard
-                    img="/portfolio5.png"
-                    projectType="Personal Project"
-                    projectName="Movie App"
-                    icon1={<FaReact size={23} />}
-                    icon2={<TbBrandNextjs size={23} />}
-                    icon3={<SiTypescript size={23} />}
-                    icon4={<BiLogoTailwindCss size={23} />}
-                    icon5={<SiThemoviedatabase size={23} />}
-                    liveLink="https://movie-app-ibragimoff.vercel.app/"
-                    codeLink="https://github.com/ibrag1moff/movie-app"
                 />
                 <WorkCard
                     img="/portfolio9.png"
